@@ -1,5 +1,24 @@
 # 💫 About Me:
-i am a computer scientist  with  with a high vision in revotionalising the power of AI  with Ml and Nlp<br> to build est intelligent softwares to solve problems
+I'm a Computer Scientist with a bold vision to revolutionize the power of Artificial Intelligence through Machine Learning (ML) and Natural Language Processing (NLP).
+
+My mission is to build cutting-edge intelligent software systems that solve real-world problems, empower businesses, and enhance user experiences.
+
+I believe in the future where AI is not just a tool, but a core solution to global challenges — and I’m working every day to bring that vision to life.
+
+✨ Tech Interests
+Machine Learning & Deep Learning
+
+Natural Language Processing (NLP)
+
+Intelligent Systems & Automation
+
+Smart Business Solutions
+
+AI-Powered Web & App Development
+
+🧠 Vision
+To lead the next generation of intelligent technologies that drive innovation across Africa and the world.
+
 
 
 ## 🌐 Socials:
